@@ -1,0 +1,24 @@
+﻿body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+/* styles for removing the background from form */
+.no-color {
+  background-color: white;
+  border-style:none;
+}
+
+.categories{
+    width: 33%;
+    overflow: hidden;
+    float: left;
+}
+
+#Search {
+    float:right;
+}
+
+#PanelCreateOrEdit {
+    padding:10px;
+}

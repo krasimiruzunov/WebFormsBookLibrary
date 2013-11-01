@@ -1,0 +1,145 @@
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\BookLibrary.dll.config
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\BookLibrary.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\BookLibrary.pdb
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Antlr3.Runtime.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\EntityFramework.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\EntityFramework.SqlServer.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Newtonsoft.Json.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Owin.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\System.Web.Optimization.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\System.Web.Providers.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\WebGrease.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\EntityFramework.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\EntityFramework.SqlServer.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Newtonsoft.Json.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\obj\Debug\BookLibrary.dll
+C:\Users\Fili\Documents\Visual Studio 2013\Projects\ASP.NET-WebFormsExam\BookLibrary\obj\Debug\BookLibrary.pdb
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\BookLibrary.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\BookLibrary.pdb
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Antlr3.Runtime.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\AspNet.ScriptManager.jQuery.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\EntityFramework.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\EntityFramework.SqlServer.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Google.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Newtonsoft.Json.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Owin.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\System.Web.Optimization.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\System.Web.Providers.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\WebGrease.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\EntityFramework.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\EntityFramework.SqlServer.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Google.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Newtonsoft.Json.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\obj\Debug\BookLibrary.dll
+D:\Dropbox\KRASI\Dropbox\HomeworksAndExams\ASP.NET WebForms\ASP.NET-WebFormsExam\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\BookLibrary.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\BookLibrary.pdb
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\EntityFramework.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Owin.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\System.Web.Providers.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\WebGrease.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\EntityFramework.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\obj\Debug\BookLibrary.dll
+C:\Users\USER\Desktop\HomeworksAndExams\ASP.NET-WebForms\ASP.NET-WebForms\BookLibrary\obj\Debug\BookLibrary.pdb
